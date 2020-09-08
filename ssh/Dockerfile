@@ -1,7 +1,8 @@
 ARG ARCH_ARG=armhf
+# For arm64 use:
+# ARG ARCH_ARG=arm64
 
 FROM torizon/debian-cross-toolchain-$ARCH_ARG:buster
-
 
 # SSH
 EXPOSE 22
