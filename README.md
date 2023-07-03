@@ -1,3 +1,7 @@
+# DEPRECATED
+This repository has been incorporated into
+[toradex/torizon-containers](https://github.com/toradex/torizon-containers).
+
 # debian-cross-toolchains
 
 Base images for cross-compiling toolchains.
